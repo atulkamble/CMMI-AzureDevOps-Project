@@ -97,12 +97,14 @@ CMMI is a process improvement model focusing on structured work management. It i
 📌 **Example Backlog Items**  
 - [ ] Implement Database Schema  
 - [ ] Develop Login API  
-- [ ] Set Up Azure Pipelines for CI/CD  
+- [ ] Set Up Azure Pipelines for CI/CD
+
 
 ### **📌 Create a Sprint**  
 1. Go to **Boards** → **Sprints**.  
 2. Click **New Sprint** and set the Sprint duration (e.g., 2 weeks).  
-3. Assign work items to the sprint backlog.  
+3. Assign work items to the sprint backlog.
+   
 
 📌 **Example Sprint Plan**  
 | **Sprint Name** | **Work Items** |  
