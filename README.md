@@ -1,4 +1,4 @@
-Here’s a structured guide to setting up a **CMMI (Capability Maturity Model Integration) Azure DevOps Project**, including repository creation, work tracking, and DevOps pipeline integration. 🚀  
+Setting up a **CMMI (Capability Maturity Model Integration) Azure DevOps Project**, including repository creation, work tracking, and DevOps pipeline integration. 🚀  
 
 ---
 
